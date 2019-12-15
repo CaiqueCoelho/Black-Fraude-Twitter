@@ -1,0 +1,1 @@
+ dolcegusto br site bugado  não dá pra comprar  perdendo sessão  clica em prosseguir pro checkout e fala "seu carrinho está vazio"  quando vai pro checkout e pede pra processar o pagamento perde a sessão e joga pra home    fraude
